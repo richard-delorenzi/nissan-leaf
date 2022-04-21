@@ -1,3 +1,11 @@
+<style
+  type="text/css">
+:target {
+  background-color: #e5eecc; 
+}
+</style>
+
+
 # Details or recognising nissan leaf: Which model is which.
 
 I am not an expert. This is the result of my research.
@@ -8,6 +16,6 @@ I am not an expert. This is the result of my research.
 - [Mark 2 (2017→at least 2022)](#mk2)
 ![Nissan Leaf MK2 — exterior](leaf-mk2.jpg)
 
-# <a id="mk1"></a>MK1
+# <a id="mk1">MK1</a>
 
-# <a id="mk2"></a>MK2
+# <a id="mk2">MK2</a>
