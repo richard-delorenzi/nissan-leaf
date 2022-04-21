@@ -1,10 +1,3 @@
-<style>
-  :target {
-    background-color: #e5eecc; 
-  }
-</style>
-
-
 # Details or recognising nissan leaf: Which model is which.
 
 I am not an expert. This is the result of my research.
