@@ -1,8 +1,7 @@
-<style
-  type="text/css">
-:target {
-  background-color: #e5eecc; 
-}
+<style>
+  :target {
+    background-color: #e5eecc; 
+  }
 </style>
 
 
