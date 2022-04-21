@@ -8,6 +8,6 @@ I am not an expert. This is the result of my research.
 - [Mark 2 (2017→at least 2022)](#mk2)
 ![Nissan Leaf MK2 — exterior](leaf-mk2.jpg)
 
-# <a id="mk1"> Mk1</a>
+# <a id="mk1"></a>MK1
 
-# <a id="mk2"> Mk2</a>
+# <a id="mk2"></a>MK2
