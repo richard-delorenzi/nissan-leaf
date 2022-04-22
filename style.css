@@ -19,7 +19,7 @@ em {
 }
 
 /*highlight selection*/
-section:target {
+:target {
     %border: double green;
     box-shadow: 0px 0px 5px 5px #f77;
 }
