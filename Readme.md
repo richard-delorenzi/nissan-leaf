@@ -1,4 +1,4 @@
-# Details or recognising nissan leaf: Which model is which.
+# Recognising nissan leaf: Which model is which.
 
 I am not an expert. This is the result of my research.
 
