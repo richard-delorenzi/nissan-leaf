@@ -1,0 +1,22 @@
+#!/bin/bash
+
+{
+    cat head.html
+
+    cat <<EOF
+    <main>
+      <section id="Identifying">
+EOF
+    markdown Readme.md
+    cat <<EOF
+      </section>
+    </main>
+EOF
+
+    echo '  <footer>'
+    markdown footer.md
+    echo '  </footer>'
+
+    cat foot.html
+
+} > index.html
