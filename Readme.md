@@ -64,3 +64,6 @@ I am not an expert. This is the result of my searching.
 # <a id="mk2">MK2</a>
 
 ## 2017
+
+# notes
+[notes](notes.html)
