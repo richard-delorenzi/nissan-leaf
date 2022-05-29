@@ -1,0 +1,44 @@
+/*layout of sections*/
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section {
+    flex-basis: 200px;
+    flex-grow: 2;
+}
+
+/*margins padding etc*/
+nav, section, aside {
+    padding-right: 1ex;
+    padding-left: 1ex;
+}
+
+section {
+    margin: 1em;
+    max-width: 50em;
+}
+
+/*too narrow: reduce margin*/
+@media (max-width: 200px) {
+    body {
+        margin: 0em;
+    }
+}
+
+/*very narrow: reduce margin*/
+@media (max-width: 150px) {
+    section {
+        margin:  0em;
+        padding: 0em;
+    }
+}
+
+/*very narrow: reduce margin*/
+@media (max-width: 100px) {
+    section, nav, aside, * {
+        margin: 0em;
+        padding: 0em;
+    }
+}
