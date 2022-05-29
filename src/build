@@ -1,4 +1,4 @@
 #!/bin/bash
 
-make ../output/Readme.md
-make ../output/index.html
+mkdir -p ../output
+make ../output/Readme.md ../output/index.html

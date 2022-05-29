@@ -4,6 +4,7 @@ html_parts = head.html main.html footer.md foot.html
 .SILENT:
 #.SECONDEXPANSION:
 .DELETE_ON_ERROR:
+.SECONDARY:
 
 main_parts = $(addsuffix .html, $(basename ${md_parts}))
 
@@ -33,4 +34,5 @@ Readme.md: ${md_parts}
 
 %.html:%.md
 	@echo building $@
-	markdown $< >$@
+	echo >$@
+	markdown $< >>$@
