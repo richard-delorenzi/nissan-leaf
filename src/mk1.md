@@ -1,4 +1,4 @@
-# <a id="mk1">MK1</a>
+# MK1
 ![Nissan Leaf MK1 — exterior](leaf-mk1.jpeg)
 
 ## 2011/12

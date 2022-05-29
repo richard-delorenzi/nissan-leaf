@@ -12,9 +12,9 @@ index.html: $(html_parts)
 	@echo building $@
 	echo >$@
 	cat head.html >>$@
-	echo '<main><section>' >>$@
+	echo '<main>' >>$@
 	cat main.html >>$@
-	echo '</section></main>' >>$@
+	echo '</main>' >>$@
 	echo '<footer>' >>$@
 	markdown footer.md >>$@
 	echo '</footer>' >>$@
@@ -35,4 +35,6 @@ Readme.md: ${md_parts}
 %.html:%.md
 	@echo building $@
 	echo >$@
+	echo '<section id="$(basename $@)">' >>$@
 	markdown $< >>$@
+	echo '</section>' >>$@

@@ -2,11 +2,12 @@
 
 - [Mark 1 (2011→2017)](#mk1)
 - [Mark 2 (2017→at least 2022)](#mk2)
+- [Range standards](#range-standards)
 
 ## Introduction
 
 I am not an expert. This is the result of my searching.
-# <a id="mk1">MK1</a>
+# MK1
 ![Nissan Leaf MK1 — exterior](leaf-mk1.jpeg)
 
 ## 2011/12
@@ -59,7 +60,7 @@ I am not an expert. This is the result of my searching.
 - Steering column clip: 2013 and 2014 cars
 - Start button fault:  between September 2013 and January 2014
 - Automatic headlight aim: February and March 2017.
-# <a id="mk2">MK2</a>
+# MK2
 ![Nissan Leaf MK2 — exterior](leaf-mk2.jpeg)
 
 ## 2017
