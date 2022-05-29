@@ -1,2 +1,2 @@
-%.html:%.md
+../output/%.html:%.md
 	markdown $< >$@
