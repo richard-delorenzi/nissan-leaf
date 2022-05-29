@@ -1,14 +1,13 @@
 # Nissan leaf: Which model is which.
 
-I am not an expert. This is the result of my searching.
-
 - [Mark 1 (2011→2017)](#mk1)
-![Nissan Leaf MK1 — exterior](leaf-mk1.jpg)
-
 - [Mark 2 (2017→at least 2022)](#mk2)
-![Nissan Leaf MK2 — exterior](leaf-mk2.jpg)
 
+## Introduction
+
+I am not an expert. This is the result of my searching.
 # <a id="mk1">MK1</a>
+![Nissan Leaf MK1 — exterior](leaf-mk1.jpg)
 
 ## 2011/12
 ### General Features
@@ -61,6 +60,7 @@ I am not an expert. This is the result of my searching.
 - Start button fault:  between September 2013 and January 2014
 - Automatic headlight aim: February and March 2017.
 # <a id="mk2">MK2</a>
+![Nissan Leaf MK2 — exterior](leaf-mk2.jpg)
 
 ## 2017
 # Range standards

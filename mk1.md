@@ -1,4 +1,5 @@
 # <a id="mk1">MK1</a>
+![Nissan Leaf MK1 — exterior](leaf-mk1.jpg)
 
 ## 2011/12
 ### General Features
