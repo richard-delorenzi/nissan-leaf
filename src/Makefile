@@ -6,7 +6,7 @@ html_parts = head.html main.html footer.md foot.html
 .DELETE_ON_ERROR:
 .SECONDARY:
 
-main_parts = $(addsuffix .html, $(basename ${md_parts}))
+main_html_parts = $(addsuffix .html, $(basename ${md_parts}))
 
 index.html: $(html_parts)
 	@echo building $@
@@ -20,7 +20,7 @@ index.html: $(html_parts)
 	echo '</footer>' >>$@
 	cat foot.html >>$@
 
-main.html: ${main_parts}
+main.html: ${main_html_parts}
 	@echo building $@
 	cat $+ >$@
 
