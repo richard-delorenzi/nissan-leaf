@@ -65,5 +65,5 @@ I am not an expert. This is the result of my searching.
 
 ## 2017
 
-# notes
+# Notes
 [notes](notes.html)
