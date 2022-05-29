@@ -1,25 +1,3 @@
 #!/bin/bash
 
-make ../output/Readme.md
-
-{
-    cat head.html
-
-    cat <<EOF
-    <main>
-      <section id="Identifying">
-EOF
-    markdown ../output/Readme.md
-    cat <<EOF
-      </section>
-    </main>
-EOF
-
-    echo '  <footer>'
-    markdown footer.md
-    echo '  </footer>'
-
-    cat foot.html
-
-} > ../output/index.html
-
+make ../output/Readme.md ../output/index.html
