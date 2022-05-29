@@ -1,4 +1,4 @@
-# Recognising nissan leaf: Which model is which.
+# Nissan leaf: Which model is which.
 
 I am not an expert. This is the result of my searching.
 
@@ -39,14 +39,14 @@ I am not an expert. This is the result of my searching.
 - Parking assist
 
 ### General Features
-- small bad battery (some)
+- Small bad battery (some)
 - Heat pump cabin heater (some)
 - Better regen
 
 ## 2014/15
 - Rear view monitor
 - Better computer
-- a larger 30kWh battery arrived in 2015 to deliver a range of 155 miles.
+- A larger 30kWh battery arrived in 2015 to deliver a range of 155 miles.
 
 ## 2016
 
@@ -60,10 +60,27 @@ I am not an expert. This is the result of my searching.
 - Steering column clip: 2013 and 2014 cars
 - Start button fault:  between September 2013 and January 2014
 - Automatic headlight aim: February and March 2017.
-
 # <a id="mk2">MK2</a>
 
 ## 2017
+# Range standards
 
-# Notes
-[notes](range-standards.html)
+epa vs nedc vs wltp
+
+# [from jdpower](https://www.jdpower.com/cars/shopping-guides/electric-vehicle-range-testing-understanding-nedc-vs-wltp-vs-epa)
+
+- The NEDC and WLTP focus primarily on urban and suburban travel.
+- EPA emphasizes highway driving
+- NEDC uses ideal conditions
+- WLTP over estimates real×10%
+- NEDC over estimates real×25%→30%
+- EPA More rigourous. More accurate (for American driving).
+
+# [from carco](https://www.licarco.com/news/ev-range-tests-explained-comparison-between-epa-ratings-wltp-nedc-and-cltc)
+
+- EPA (Environmental Protection Agency) ratings
+- WLTP (Worldwide Harmonised Light Vehicle Test Procedure)
+- NEDC (New European Driving Cycle)
+- CLTC (China Light Duty Vehicle Test Cycle)
+- CLTC over estimates
+- WLTP records about 20% higher EV range than the NEDC
