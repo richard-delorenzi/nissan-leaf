@@ -1,3 +1,4 @@
 #!/bin/bash
 
-make ../output/Readme.md ../output/index.html
+make ../output/Readme.md
+make ../output/index.html
