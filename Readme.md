@@ -46,10 +46,12 @@ I am not an expert. This is the result of my searching.
 ## 2014/15
 - Rear view monitor
 - Better computer
+- a larger 30kWh battery arrived in 2015 to deliver a range of 155 miles.
 
 ## 2016
 
 ## 2017
+
 
 ## Checks:
 - SD card (May be a different type of card) on entertainment system. Check not missing.

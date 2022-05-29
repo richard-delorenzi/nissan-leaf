@@ -20,3 +20,4 @@ EOF
     cat foot.html
 
 } > index.html
+make notes.html
