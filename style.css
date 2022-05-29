@@ -46,7 +46,7 @@ nav ul li:hover {
 }
 
 /*transitions*/
-footer:hover { font-size: 300%; }
+footer:hover { font-size: 100%; }
 footer {
     font-size: 50%;
     transition: font-size 1s;
