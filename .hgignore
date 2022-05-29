@@ -1,3 +1,8 @@
 syntax: glob
 src/Readme.md
 src/index.html
+src/intro.html
+src/main.html
+src/mk1.html
+src/mk2.html
+src/range-standards.html
