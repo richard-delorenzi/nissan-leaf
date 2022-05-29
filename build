@@ -20,4 +20,4 @@ EOF
     cat foot.html
 
 } > index.html
-make notes.html
+make range-standards.html

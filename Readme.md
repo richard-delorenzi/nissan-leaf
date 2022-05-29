@@ -66,4 +66,4 @@ I am not an expert. This is the result of my searching.
 ## 2017
 
 # Notes
-[notes](notes.html)
+[notes](range-standards.html)
