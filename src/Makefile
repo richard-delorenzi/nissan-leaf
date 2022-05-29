@@ -12,9 +12,9 @@ index.html: $(html_parts)
 	@echo building $@
 	echo >$@
 	cat head.html >>$@
-	echo '<main>' >>$@
+	echo '<main><section>' >>$@
 	cat main.html >>$@
-	echo '</main>' >>$@
+	echo '</section></main>' >>$@
 	echo '<footer>' >>$@
 	markdown footer.md >>$@
 	echo '</footer>' >>$@
