@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cat intro.md mk1.md mk2.md range-standards.md > ../output/Readme.md
+make ../output/Readme.md
 
 {
     cat head.html
