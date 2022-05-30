@@ -10,11 +10,8 @@ main_parts = $(addsuffix .html, $(basename ${md_parts}))
 
 index.html: $(html_parts)
 	@echo building $@
-	echo >$@
-	cat head.html >>$@
-	cat main.html >>$@
-	cat footer.html >>$@
-	cat foot.html >>$@
+	cat $+ >$@
+
 
 main.html: ${main_parts}
 	@echo building $@
@@ -30,6 +27,13 @@ footer.html: footer.md
 	markdown $< >>$@
 	echo '</footer>' >>$@
 
+%.html:%.md
+	@echo building $@
+	echo >$@
+	echo '<section id="$(basename $@)">' >>$@
+	markdown $< >>$@
+	echo '</section>' >>$@
+
 Readme.md: ${md_parts}
 	@echo building $@
 	cat $+ >$@
@@ -37,10 +41,3 @@ Readme.md: ${md_parts}
 ../output/%:%
 	@echo building $@
 	cp -T $< $@
-
-%.html:%.md
-	@echo building $@
-	echo >$@
-	echo '<section id="$(basename $@)">' >>$@
-	markdown $< >>$@
-	echo '</section>' >>$@
