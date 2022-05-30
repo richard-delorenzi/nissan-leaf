@@ -7,6 +7,9 @@
 ## Introduction
 
 I am not an expert. This is the result of my searching.
+
+## Links
+[Insurance tips — heycar](https://heycar.co.uk/blog/electric-cars-cost-less-to-insure-than-petrols-and-diesels)
 # MK1
 ![Nissan Leaf MK1 — exterior](leaf-mk1.jpeg)
 
