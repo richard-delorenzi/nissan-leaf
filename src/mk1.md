@@ -1,7 +1,7 @@
 # MK1
 ![Nissan Leaf MK1 — exterior](leaf-mk1.jpeg)
 
-## 2011/12
+## 2011→12
 ### General Features
 - Small bad battery
 - Range 
@@ -34,7 +34,7 @@
 - Heat pump cabin heater (some)
 - Better regen
 
-## 2014/15
+## 2014→15
 - Rear view monitor
 - Better computer
 - A larger 30kWh battery arrived in 2015 to deliver a range of.
@@ -45,7 +45,7 @@
 
 ## Range
 
-> ##2011/12
+> ##2011→12
 > - 117 km (73 miles) EPA
 > - 175 km (109 miles) NEDC
 >
@@ -53,7 +53,7 @@
 > - 121 km (75 miles) EPA
 > - 200 km (120 miles) NEDC
 >
-> ##2014/15
+> ##2014→15
 > - 135 km (84 miles) EPA
 >
 > ##2016
