@@ -10,20 +10,70 @@ section {
 }
 
 /*margins padding etc*/
-nav, section, aside {
+section {
     padding-right: 1ex;
     padding-left: 1ex;
 }
 
-section {
+nav, section, aside {
     margin: 0.5em;
-    max-width: 80em;
+    max-width: 50em;
 }
 
-/*too narrow: reduce margin*/
+nav section, aside section {
+    margin: 0px;
+}
+nav, aside {
+    padding: 0px;
+}
+
+/****************************************************************/
+/*Grid layout */
+
+/*Name the parts: for use my grid-template-areas*/
+aside    {grid-area: a;} 
+nav      {grid-area: n;}
+main     {grid-area: m;}
+header   {grid-area: h;}
+footer   {grid-area: f;}
+
+/*layout of page*/
+body {
+    display: grid; 
+    grid-template-areas:
+        "n m a"
+        "f f f";
+    grid-template-rows:  1fr min-content;
+    grid-template-columns: minmax(10em,min(15em,15%)) 1fr minmax(10em, 20%);
+}
+
+@media (max-width: 800px) {
+    body {
+        grid-template-areas:
+            "n m m"
+            "n a a"
+            "f f f";
+        grid-template-rows: 1fr auto min-content;
+    }
+}
+
+@media (max-width: 700px) {
+    body {
+        grid-template-areas:
+            "n"
+            "m"
+            "a"
+            "f";
+        grid-template-rows:  auto 1fr auto min-content;
+        grid-template-columns: 1fr;
+    }
+    body, section, nav, aside {
+        margin: 0px;
+        border: 0em;
+    }
+}
 @media (max-width: 450px) {
-    body, section{
-        margin: 0em;
+    body, section, nav, aside {
         padding: 0em;
     }
 }

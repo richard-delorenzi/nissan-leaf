@@ -25,20 +25,22 @@ em {
 }
 
 /*remove indent and bullets, from the navigation list*/
-nav ul {
+nav section ul {
     list-style-type: none;
     padding-left: 0;
 }
 
 /*Garish colours, so that we can see what is going on*/
 nav {background-color: #aaa;}
-aside {background-color: #fff;}
+aside {background-color: #acf;}
 footer {background-color: #afa;}
 header {background-color: #faa;}
 section {background-color: #ffa;}
 #logo {background-color: #aaa;}
 nav ul li:nth-child(2n) {background-color: #888;}
 nav ul li {background-color: #999;}
+nav section {background-color: inherit;}
+aside section {background-color: inherit;}
 
 /*hover — has to go after nav ul li:nth-child(2n), to override, as rules are both equal specificity*/
 nav ul li:hover {
@@ -64,4 +66,8 @@ cite::before{
 }
 cite {
     background-color: #f7f7f7;
+}
+
+section ul {
+    padding-inline-start: 1em;
 }
