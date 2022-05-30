@@ -46,19 +46,19 @@
 ## Range
 
 > ##2011→12
-> - 117 km (73 miles) EPA
-> - 175 km (109 miles) NEDC
+> - 117 km (73 miles) <a href="#range-standards">EPA</a>
+> - 175 km (109 miles) <a href="#range-standards">NEDC</a> [over estimate]
 >
 > ##2013
-> - 121 km (75 miles) EPA
-> - 200 km (120 miles) NEDC
+> - 121 km (75 miles) <a href="#range-standards">EPA</a>
+> - 200 km (120 miles) <a href="#range-standards">NEDC</a> [over estimate]
 >
 > ##2014→15
-> - 135 km (84 miles) EPA
+> - 135 km (84 miles) <a href="#range-standards">EPA</a>
 >
 > ##2016
-> - with 24 kWh battery 135 km (84 miles) EPA
-> - with 30 kWh battery 172 km (107 miles) EPA
+> - with 24 kWh battery 135 km (84 miles) <a href="#range-standards">EPA</a>
+> - with 30 kWh battery 172 km (107 miles) <a href="#range-standards">EPA</a>
 >
 > <cite>[Wikipedia (2022-05-30)](https://en.wikipedia.org/wiki/Nissan_Leaf#First_generation_(ZE0/AZE0;_2010\))</cite>
 

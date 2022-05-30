@@ -55,19 +55,19 @@ I am not an expert. This is the result of my searching.
 ## Range
 
 > ##2011→12
-> - 117 km (73 miles) EPA
-> - 175 km (109 miles) NEDC
+> - 117 km (73 miles) <a href="#range-standards">EPA</a>
+> - 175 km (109 miles) <a href="#range-standards">NEDC</a> [over estimate]
 >
 > ##2013
-> - 121 km (75 miles) EPA
-> - 200 km (120 miles) NEDC
+> - 121 km (75 miles) <a href="#range-standards">EPA</a>
+> - 200 km (120 miles) <a href="#range-standards">NEDC</a> [over estimate]
 >
 > ##2014→15
-> - 135 km (84 miles) EPA
+> - 135 km (84 miles) <a href="#range-standards">EPA</a>
 >
 > ##2016
-> - with 24 kWh battery 135 km (84 miles) EPA
-> - with 30 kWh battery 172 km (107 miles) EPA
+> - with 24 kWh battery 135 km (84 miles) <a href="#range-standards">EPA</a>
+> - with 30 kWh battery 172 km (107 miles) <a href="#range-standards">EPA</a>
 >
 > <cite>[Wikipedia (2022-05-30)](https://en.wikipedia.org/wiki/Nissan_Leaf#First_generation_(ZE0/AZE0;_2010\))</cite>
 
@@ -86,30 +86,31 @@ I am not an expert. This is the result of my searching.
 
 ## Range
 > ##40 kWh
-> - 243 km (151 miles) EPA
-> - 270 km (170 miles) WLTP
+> - 243 km (151 miles) <a href="#range-standards">EPA</a>
+> - 270 km (170 miles) <a href="#range-standards">WLTP</a>
 >
 > ## 62 kWh (Leaf Plus or e+)
-> - 364 km (226 miles) EPA
+> - 364 km (226 miles) <a href="#range-standards">EPA</a>
 >
 > <cite>[Wikipedia (2022-05-30)](https://en.wikipedia.org/wiki/Nissan_Leaf#Second_generation_(ZE1;_2017\))</cite># Range standards
 
-EPA vs NEDC vs WLTP
-
-# [From jdpower](https://www.jdpower.com/cars/shopping-guides/electric-vehicle-range-testing-understanding-nedc-vs-wltp-vs-epa)
-
-- The NEDC and WLTP focus primarily on urban and suburban travel.
-- EPA emphasizes highway driving
-- NEDC uses ideal conditions
-- WLTP over estimates real×10%
-- NEDC over estimates real×25%→30%
-- EPA More rigourous. More accurate (for American driving).
-
-# [From carco](https://www.licarco.com/news/ev-range-tests-explained-comparison-between-epa-ratings-wltp-nedc-and-cltc)
+##EPA vs NEDC vs WLTP
 
 - EPA (Environmental Protection Agency) ratings
+- EPA emphasizes highway driving
+- EPA More rigourous. More accurate (for American driving).
 - WLTP (Worldwide Harmonised Light Vehicle Test Procedure)
+- WLTP over estimates real×10%
+- WLTP records about 20% higher EV range than the NEDC (jdpower)
+- WLTP focus primarily on urban and suburban travel.
 - NEDC (New European Driving Cycle)
+- NEDC uses ideal conditions
+- NEDC over estimates real× (25%→30%)
+- NEDC focus primarily on urban and suburban travel.
 - CLTC (China Light Duty Vehicle Test Cycle)
 - CLTC over estimates
-- WLTP records about 20% higher EV range than the NEDC
+
+
+From [ jdpower](https://www.jdpower.com/cars/shopping-guides/electric-vehicle-range-testing-understanding-nedc-vs-wltp-vs-epa)
+CLTC, and acronym expansion from[ carco](https://www.licarco.com/news/ev-range-tests-explained-comparison-between-epa-ratings-wltp-nedc-and-cltc)
+
