@@ -21,23 +21,8 @@ section {
 }
 
 /*too narrow: reduce margin*/
-@media (max-width: 200px) {
-    body {
-        margin: 0em;
-    }
-}
-
-/*very narrow: reduce margin*/
-@media (max-width: 150px) {
-    section {
-        margin:  0em;
-        padding: 0em;
-    }
-}
-
-/*very narrow: reduce margin*/
-@media (max-width: 100px) {
-    section, nav, aside, * {
+@media (max-width: 450px) {
+    body, section{
         margin: 0em;
         padding: 0em;
     }

@@ -9,20 +9,14 @@ footer   {grid-area: f;}
 body {
     display: grid; 
     grid-template-areas:
-        "n m m"
-        "f f f";
+        "m"
+        "f";
 }
 
 /*sizes*/
 body {
-    grid-template-rows:  auto 1fr min-content;
+    grid-template-rows:  1fr min-content;
     //grid-template-columns: minmax(min-content,min(10em,10%)) 1fr minmax(5em, 10%);
-    grid-template-columns: 1fr minmax(5em, 10%);
+    grid-template-columns: 1fr;
 }
 
-/*too narrow: turn off grid*/
-@media all and (max-width: 280px){
-    body {
-        display: block;
-    }
-}
