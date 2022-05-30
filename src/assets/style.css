@@ -56,24 +56,12 @@ article {
     transition: border 1s;
 }
 
-.upsidedown {
-    transform: rotate(180deg);
-    transition: transform 2s;
+blockquote {
+    background-color: #fff;
 }
-
-.upsidedown:hover {
-    transform: rotate(0deg);
-    transition: transform 0s;
+cite::before{
+    content: "from: ";
 }
-
-/*logo*/
-#logo * {
-    transform: rotate(-35deg) scale(1.0,1.0) translate(-1em,0.5em);
-    text-align: center;
-}
-
-#logo p:hover {
-    %transform: rotate(+35deg) scale(2.0,2.0) translate(0.5em,1.0em);
-    %background-color: red;
-    %transition: background-color 10s, transform 1s;
+cite {
+    background-color: #f7f7f7;
 }
