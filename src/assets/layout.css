@@ -16,8 +16,8 @@ nav, section, aside {
 }
 
 section {
-    margin: 1em;
-    max-width: 50em;
+    margin: 0.5em;
+    max-width: 80em;
 }
 
 /*too narrow: reduce margin*/
