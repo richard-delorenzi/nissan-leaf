@@ -94,9 +94,9 @@ I am not an expert. This is the result of my searching.
 >
 > <cite>[Wikipedia (2022-05-30)](https://en.wikipedia.org/wiki/Nissan_Leaf#Second_generation_(ZE1;_2017\))</cite># Range standards
 
-epa vs nedc vs wltp
+EPA vs NEDC vs WLTP
 
-# [from jdpower](https://www.jdpower.com/cars/shopping-guides/electric-vehicle-range-testing-understanding-nedc-vs-wltp-vs-epa)
+# [From jdpower](https://www.jdpower.com/cars/shopping-guides/electric-vehicle-range-testing-understanding-nedc-vs-wltp-vs-epa)
 
 - The NEDC and WLTP focus primarily on urban and suburban travel.
 - EPA emphasizes highway driving
@@ -105,7 +105,7 @@ epa vs nedc vs wltp
 - NEDC over estimates real×25%→30%
 - EPA More rigourous. More accurate (for American driving).
 
-# [from carco](https://www.licarco.com/news/ev-range-tests-explained-comparison-between-epa-ratings-wltp-nedc-and-cltc)
+# [From carco](https://www.licarco.com/news/ev-range-tests-explained-comparison-between-epa-ratings-wltp-nedc-and-cltc)
 
 - EPA (Environmental Protection Agency) ratings
 - WLTP (Worldwide Harmonised Light Vehicle Test Procedure)
